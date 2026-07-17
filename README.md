@@ -31,3 +31,14 @@
 [![](https://komarev.com/ghpvc/?username=Saifali8771&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🌐 Let's Connect
+
+<p align="left">
+  <a href="https://github.com/Srijan610" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF66&height=100&section=footer" alt="Footer Wave" />
+</p>
