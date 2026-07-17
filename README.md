@@ -34,7 +34,7 @@
 ### 🌐 Let's Connect
 
 <p align="left">
-  <a href="https://github.com/Srijan610" target="_blank">
+  <a href="https://github.com/Saifali8771" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
 </p>
